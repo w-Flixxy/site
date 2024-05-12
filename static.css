@@ -11,9 +11,6 @@ h1{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-#main {
-    font-size: 100px;
-}
 .content-area{
     background-color: white;
 }
